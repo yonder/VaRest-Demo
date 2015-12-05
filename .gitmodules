@@ -1,0 +1,3 @@
+[submodule "Plugins/VaRestPlugin"]
+	path = Plugins/VaRestPlugin
+	url = git@github.com:ufna/VaRest.git
