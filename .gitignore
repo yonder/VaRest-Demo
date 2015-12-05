@@ -1,0 +1,15 @@
+/Binaries/
+/Intermediate/
+/Saved/
+*.opensdf
+*.sdf
+/VaRestDemo.sln
+*.v12.suo
+/.svn/
+*.DS_Store
+/VaRestDemo.xcodeproj/
+*.mo
+*.*~
+*.orig
+/.vs/
+/Build/
